@@ -9,12 +9,12 @@
       "url": "http://facebook.com"
     },
     {
-      "key": ":tt",
-      "url": "http://twitter.com"
+      "key": ":rd",
+      "url": "http://reddit.com"
     },
     {
-      "key": ":ig",
-      "url": "http://instagram.com"
+      "key": ":tv",
+      "url": "http://twitch.tv"
     },
     {
       "key": ":yt",
@@ -25,12 +25,12 @@
       "url": "http://github.com"
     },
     {
-      "key": ":ks",
-      "url": "http://kaskus.co.id"
+      "key": ":lg",
+      "url": "http://lgbt.io"
     },
     {
-      "key": ":tp",
-      "url": "http://tokopedia.com"
+      "key": ":cs",
+      "url": "http://catgirl.science"
     },
     {
       "key": ":em",
